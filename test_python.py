@@ -3,7 +3,7 @@ import sys
 import numpy as np
 
 # Grab data file
-src = os.chdir('C:\Users\wei\imported_data.csv')
+src = os.chdir('C:\\Users\\wei\\imported_data.csv')
 
 x_values = []
 label = []
